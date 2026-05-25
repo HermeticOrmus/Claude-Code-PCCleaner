@@ -1,3 +1,5 @@
+> **Superseded by [`claude-maintain`](https://github.com/HermeticOrmus/claude-maintain)**, the maintained Claude Code environment-maintenance CLI. This repository is archived and kept for reference.
+
 > **"Your machine is an extension of your mind. A cluttered system breeds cluttered thinking."**
 
 # Claude-Code-PCCleaner
